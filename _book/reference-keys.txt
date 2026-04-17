@@ -1,0 +1,16 @@
+cv-toekomstplan
+curriculum-vitae
+contact
+skills
+languages
+profile
+experience
+extra
+plan-voor-de-toekomst
+vrije-opdracht
+data-management
+reproducible-science
+sql
+r-package
+bronvermelding
+geparameterizeerde-rmarkdown
