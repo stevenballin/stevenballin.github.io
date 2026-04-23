@@ -9,7 +9,11 @@ extra
 plan-voor-de-toekomst
 vrije-opdracht
 data-management
+formatieve-opdracht-rna-seq-daur2
+portfolio-repository
 reproducible-science
+een-data-analyse-van-een-ander-reproduceren
+een-artikel-beoordelen-op-reproduceerbaarheid
 sql
 r-package
 bronvermelding
